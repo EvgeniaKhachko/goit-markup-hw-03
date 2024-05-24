@@ -192,8 +192,10 @@ display: flex;
     
     background-color: #f4f4fd;   
 }
-.team-our{
+.team-our {
     gap: 24px;
+    margin: 0;
+    padding: 0;
 }
 .team-container ul{
     display: flex;
