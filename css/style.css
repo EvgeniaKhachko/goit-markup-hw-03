@@ -275,8 +275,8 @@ color:#2e2f42;
 }
 .footer {
     
-
-        background-color: #2e2f42;
+    padding: 100px 0;
+    background-color: #2e2f42;
       
 }
 .footer p {
@@ -284,6 +284,10 @@ color: #f4f4fd;
 }
 .footer .logo-text {
     color: #f4f4fd;
+}
+.footer a.logo {
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .visually-hidden {
     position: absolute;
