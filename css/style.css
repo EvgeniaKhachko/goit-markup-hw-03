@@ -287,9 +287,11 @@ color:#2e2f42;
     background-color: #2e2f42;
       
 }
+.footer-description{
+max-width: 264px ;
+}
 .footer p {
 color: #f4f4fd;
-max-width: 264px;
 }
 .footer .logo-text {
     color: #f4f4fd;
