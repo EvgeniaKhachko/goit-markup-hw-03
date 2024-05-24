@@ -229,7 +229,7 @@ padding: 32px 0;
 }
 .goal {
     font-size: 16px;
-    text-align: center;
+    text-align: left;
 }
 .team li p, .team li h3{
     text-align: center;
