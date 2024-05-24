@@ -193,17 +193,30 @@ display: flex;
     
     background-color: #f4f4fd;   
 }
+.team-our{
+    gap: 24px;
+}
 .team-container ul{
     display: flex;
 }
 .our-team {
     text-transform: capitalize;
+    margin-bottom: 72px;
 }
 .mark {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+}
+.name{
+padding: 32px 0;
+}
+.about-us{
+    margin-bottom: 8px;
 }
 .goal {
     font-size: 16px;
+    text-align: center;
 }
 .team li p, .team li h3{
     text-align: center;
@@ -215,9 +228,13 @@ display: flex;
 }
 .portfolio-our {
     text-transform: capitalize;
+    margin-bottom: 72px;
 }
+
+
 .portfolio ul {
     flex-wrap: wrap;
+   
 }
 .portfolio li {
     
