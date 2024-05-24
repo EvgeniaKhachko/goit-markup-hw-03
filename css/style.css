@@ -223,7 +223,7 @@ display: flex;
     
         background: #fff;
 }
-.portfolio ul li img {
+img {
     display: block;
 }
 
